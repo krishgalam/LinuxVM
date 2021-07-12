@@ -1,0 +1,2 @@
+To Install my SQL Server
+sudo apt install mysql-server
